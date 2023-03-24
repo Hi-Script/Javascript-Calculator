@@ -1,0 +1,134 @@
+body {
+    min-width: 250px;
+    padding: 20px, 20px;
+    
+    
+}
+
+.input-el {
+    width: 81%;
+    
+    margin-bottom: 5px;
+    border: 1px solid;
+    height: 25px;
+
+}
+
+.clear-btn {
+    
+    color: rgb(219, 1, 74);
+    position: relative;
+    border: 2px solid rgb(219, 1, 74);
+    width: 100px;
+    padding: 20px, 20px;
+    height: 25px;
+    transform: translateY(34px);
+    margin-bottom: 15px;
+    border-radius: 4px;
+    
+
+}
+
+.input-btn {
+    background-color: rgb(219, 1, 74);
+    color: white;
+    position: relative;
+    border: none;
+    width: 100px;
+    padding: 20px, 20px;
+    height: 25px;
+    transform: translateY(34px);
+    margin-bottom: 15px;
+    border-radius: 4px;
+    
+    
+}
+
+.save-btn {
+    background-color: rgb(2, 119, 64);
+    color: white;
+    position: relative;
+    border: none;
+    width: 100px;
+    padding: 20px, 20px;
+    height: 25px;
+    transform: translateY(34px);
+    margin-bottom: 15px;
+    border-radius: 4px;
+    
+
+}
+
+.d-btn {
+    
+    background-color: rgb(2, 119, 64);
+    color: white;
+    position: relative;
+    border: none;
+    width: 100px;
+    padding: 20px, 20px;
+    height: 25px;
+    transform: translateY(34px);
+    margin-bottom: 15px;
+    border-radius: 4px;
+
+}
+
+button {
+    background: brown;
+    color: white;
+    border: none;
+    width: 20%;
+    padding: 20px, 20px;
+    height: 25px;
+    margin-bottom: 5px;
+    border-radius: 4px;
+    
+    
+}
+
+.ul-el li {
+    list-style: none;
+
+}
+.ul-el li a {
+    color: rgb(219, 1, 74);
+}
+
+
+.btn-1 button {
+    background: slategrey;
+    
+}
+
+
+.plus {
+
+    
+    
+    
+}
+
+
+
+.btn-2 button {
+    background: slategrey;
+}
+
+
+
+.btn-3 button {
+    background: slategrey;
+}
+
+
+.ans {
+
+    background: green;
+    
+
+}
+
+
+
+

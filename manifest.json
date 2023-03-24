@@ -1,0 +1,10 @@
+{
+    "manifest_version": 3,
+    "description": "An app for calculating while surfing the internet",
+    "version": "1.2.4",
+    "name": "Evaluator",
+    "action": {
+        "default_popup": "index.html",
+        "default_icon": "cal.png" 
+    }  
+}
